@@ -422,7 +422,7 @@
   "100": {
     "question": "Why disable SSID broadcasting?",
     "answer": "To eliminate scanning for available SSIDs in the area"
-  }
+  },
 "101": {
     "question": "Which non-overlapping channels should be assigned to 802.11g APs?",
     "answer": "Channels 1, 6 and 11"
