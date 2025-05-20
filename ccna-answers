@@ -1,5 +1,5 @@
 {
-  "1": {
+   "1": {
     "question": "In what situation would a technician use the 'show interfaces' switch command?",
     "answer": "To determine the MAC address of a directly connected network device on a given interface"
   },
